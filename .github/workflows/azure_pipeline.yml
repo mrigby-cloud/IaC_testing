@@ -47,4 +47,4 @@ jobs:
         with:
           resourceGroupName: Matt_R
           template: ./storageaccount.bicep
-          paramaters: ./storageaccount-dev.parameters.json
+          parameters: ./storageaccount-dev.parameters.json
